@@ -6,7 +6,7 @@
 - Finalized the Bill of Materials and mapped out GPIO pins for the schematic.
 
 
-### Entry 2: Native USB HID Firmware
+# Entry 2: Native USB HID Firmware
 - Implemented firmware using ESP32-S3 Arduino core with native `USBHIDKeyboard` and `USBHIDConsumerControl`.
 - Configured 4 active-low debounced inputs with internal pull-ups for mechanical switches:
   - SW1 (GPIO 4): Terminal launcher.
