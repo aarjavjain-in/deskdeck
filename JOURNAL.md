@@ -1,4 +1,4 @@
-#journal
+# JOURNAL
 
 # November 7, 2026: Project Scope & Architecture
 
